@@ -1,0 +1,2 @@
+PSNR airport_gray.png and airport_gray_noisy.png:  24.99311507671742
+PSNR airport_gray.png and median_kernel_5:  34.775958582514576
