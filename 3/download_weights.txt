@@ -1,0 +1,4 @@
+
+Os pesos da rede treinada se encontra em:
+	https://drive.google.com/drive/folders/1S0qWT9GF1K48iGO1G2stZ9-7v79L5aQJ?usp=sharing
+	na pasta 3_resultados/best_model_backbone_efficientnetb7_03312024230945/model/best_model_backbone_efficientnetb7_03312024230945
